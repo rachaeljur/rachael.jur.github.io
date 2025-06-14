@@ -1,5 +1,4 @@
 # rachael.jur.github.io
-rachaeljur github coding projects
 
 # Rachael Jurawan
 Welcome to my personal portfolio! I'm learning to code.
